@@ -5,6 +5,7 @@ year: 2022 Fall
 TAemail: ntueemlta2022@gmail.com
 TeacherEmail: peiyuanwu@ntu.edu.tw
 url: https://ntueemlta2022.github.io
+location: 106 臺北市大安區羅斯福路四段 1 號博理館 530 室
 year: "2022 FALL "
 description: "授課教授：吳沛遠"
 TAs:
@@ -17,13 +18,137 @@ TAs:
 # Syllabus
 syllabus:
   - title: Week 01
-    video: https://www.youtube.com/watch?v=Wcp4VAAM468
+    video: https://drive.google.com/drive/folders/1-iHwvCefqNQCySxwoohmYbpePZq7wqoR
     slides:
       - title: Syllabus
         path: ./slides/ML syllabus (109-1).pdf
       - title: Introduction
         path: ./slides/W1a_Introduction.pdf
+      - title: Regression
+        path: ./slides/W1b_Regression.pdf
   - title: Week 02
+    video: https://drive.google.com/drive/folders/1jGBuc7pZehO_9FMdTL1ahfTVIGp5aoj2?usp=sharing
+    slides:
+      - title: Bias and Variance
+        path: ./slides/W2a_Bias and Variance.pdf
+      - title: Classification
+        path: ./slides/W2b_Classification (v2).pdf
+      - title: Logistic Regression
+        path: ./slides/W2c_Logistic Regression (v4).pdf
+  - title: Week 03
+    video: https://drive.google.com/drive/folders/1telw5nIfU2zAojDErOETD2RF3lx7SirZ?usp=sharing
+    slides:
+      - title: Deep_Learning
+        path: ./slides/W3a_DL_introduction.pdf
+      - title: Gradient Descent
+        path: ./slides/W3b_Gradient Descent.pdf
+      - title: Backpropagation
+        path: ./slides/W3c_BP (v2).pdf  
+      - title: DNN
+        path: ./slides/W3e_DNN tip.pdf
+  - title: Week 04
+    video: https://www.youtube.com/watch?v=OP5HcXJg2Aw&list=PLJV_el3uVTsMhtt7_Y6sgTHGHp1Vb2P2J&index=10
+    slides:
+      - title: CNN
+        path: ./slides/W4a_CNN.pdf
+  - title: Week 05
+    video: https://drive.google.com/drive/folders/1FCQjw6BMc-AjKwQJlYZp_mpPbPKyuNXC?usp=sharing
+    slides:
+      - title: PCA
+        path: ./slides/W5a_PCA.pdf
+  - title: Week 06
+    video: https://youtube.com/playlist?list=PLxk9aIYXCa9czvYZSo1p3AlR9ydXyfJ29
+    slides:
+      - title: Auto Encoder
+        path: ./slides/W6a_auto.pdf
+      - title: TSNE
+        path: ./slides/W6b_TSNE.pdf
+  
+  - title: Week 07
+    video: https://www.youtube.com/watch?v=Wcp4VAAM468
+    slides:
+      - title: DNN
+        path: ./slides/W3e_DNN tip.pdf
+      - title: CNN
+        path: ./slides/W4a_CNN.pdf
+  - title: Week 08
+    video: https://www.youtube.com/watch?v=Wcp4VAAM468
+    slides:
+      - title: DNN
+        path: ./slides/W3e_DNN tip.pdf
+      - title: CNN
+        path: ./slides/W4a_CNN.pdf
+  - title: Week 09
+    video: https://www.youtube.com/watch?v=Wcp4VAAM468
+    slides:
+      - title: DNN
+        path: ./slides/W3e_DNN tip.pdf
+      - title: CNN
+        path: ./slides/W4a_CNN.pdf
+  - title: Week 10
+    video: https://www.youtube.com/watch?v=Wcp4VAAM468
+    slides:
+      - title: DNN
+        path: ./slides/W3e_DNN tip.pdf
+      - title: CNN
+        path: ./slides/W4a_CNN.pdf
+  - title: Week 11
+    video: https://www.youtube.com/watch?v=Wcp4VAAM468
+    slides:
+      - title: DNN
+        path: ./slides/W3e_DNN tip.pdf
+      - title: CNN
+        path: ./slides/W4a_CNN.pdf
+  - title: Week 12
+    video: https://www.youtube.com/watch?v=Wcp4VAAM468
+    slides:
+      - title: DNN
+        path: ./slides/W3e_DNN tip.pdf
+      - title: CNN
+        path: ./slides/W4a_CNN.pdf
+  - title: Week 02
+    video: https://www.youtube.com/watch?v=Wcp4VAAM468
+    slides:
+      - title: DNN
+        path: ./slides/W3e_DNN tip.pdf
+      - title: CNN
+        path: ./slides/W4a_CNN.pdf        
+  - title: Week 13
+    video: https://www.youtube.com/watch?v=Wcp4VAAM468
+    slides:
+      - title: DNN
+        path: ./slides/W3e_DNN tip.pdf
+      - title: CNN
+        path: ./slides/W4a_CNN.pdf
+  - title: Week 14
+    video: https://www.youtube.com/watch?v=Wcp4VAAM468
+    slides:
+      - title: DNN
+        path: ./slides/W3e_DNN tip.pdf
+      - title: CNN
+        path: ./slides/W4a_CNN.pdf
+  - title: Week 15
+    video: https://www.youtube.com/watch?v=Wcp4VAAM468
+    slides:
+      - title: DNN
+        path: ./slides/W3e_DNN tip.pdf
+      - title: CNN
+        path: ./slides/W4a_CNN.pdf
+  - title: Week 16
+    video: https://www.youtube.com/watch?v=Wcp4VAAM468
+    slides:
+      - title: DNN
+        path: ./slides/W3e_DNN tip.pdf
+      - title: CNN
+        path: ./slides/W4a_CNN.pdf
+  - title: Week 17
+    video: https://www.youtube.com/watch?v=Wcp4VAAM468
+    slides:
+      - title: DNN
+        path: ./slides/W3e_DNN tip.pdf
+      - title: CNN
+        path: ./slides/W4a_CNN.pdf
+  - title: Week 18
     video: https://www.youtube.com/watch?v=Wcp4VAAM468
     slides:
       - title: DNN
@@ -34,20 +159,36 @@ syllabus:
 # Homework
 # Please follow the format below to update the content.
 homeworks:
-  - number: HW1
-    title: Regression
+  - title: HW1 - Regression
     video: https://www.youtube.com/watch?v=Wcp4VAAM468
     slide: https://www.kaggle.com
     kaggle: https://www.kaggle.com
     colab: https://colab.research.google.com
-
-  - number: HW2
-    title: CNN
+ 
+ 
+  - title: HW2 - CNN
     video: https://www.youtube.com/watch?v=Wcp4VAAM468
     slide: https://www.kaggle.com
     kaggle: https://www.kaggle.com
     colab: https://colab.research.google.com   
 
+  - title: HW3 - CNN
+    video: https://www.youtube.com/watch?v=Wcp4VAAM468
+    slide: https://www.kaggle.com
+    kaggle: https://www.kaggle.com
+    colab: https://colab.research.google.com   
+
+  - title: HW4 - CNN
+    video: https://www.youtube.com/watch?v=Wcp4VAAM468
+    slide: https://www.kaggle.com
+    kaggle: https://www.kaggle.com
+    colab: https://colab.research.google.com   
+
+  - title: HW5 - CNN
+    video: https://www.youtube.com/watch?v=Wcp4VAAM468
+    slide: https://www.kaggle.com
+    kaggle: https://www.kaggle.com
+    colab: https://colab.research.google.com   
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 networks:
